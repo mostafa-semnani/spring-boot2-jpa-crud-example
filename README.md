@@ -6,3 +6,5 @@ Below is the step by step article which explained this Spring boot 2 JPA CRUD Re
 
 
 http://www.javaguides.net/2018/09/spring-boot-2-jpa-mysql-crud-example.html
+
+# From Mosi :)
